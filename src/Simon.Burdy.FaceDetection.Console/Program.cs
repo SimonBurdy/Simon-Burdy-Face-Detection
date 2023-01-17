@@ -2,7 +2,7 @@
 using System.Text.Json;
 using Simon.Burdy.FaceDetection;
 
-namespace massyl.zelleg.FaceDetection.Console
+namespace Simon.Burdy.FaceDetection.Console
 {
     class Program
     {
